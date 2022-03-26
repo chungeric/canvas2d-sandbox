@@ -1,6 +1,6 @@
 # Canvas2D Sandbox
 
-A minimal starter for Canvas2D.
+A minimal setup for Canvas2D.
 
 ## Setup
 
